@@ -127,7 +127,7 @@ header {
 /* main */
 main{
     width: 1180px;
-    height: 900px;
+    height: 3600px;
     margin: 0 auto;
 }
 .section-1{
@@ -397,7 +397,7 @@ main{
   .footer {
     background: #191919;
     padding: 55px 100px;
-    margin-top: 2680px;
+    
   }
   
   .footer-container {
